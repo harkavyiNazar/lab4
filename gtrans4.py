@@ -9,7 +9,7 @@ def main():
     print(f"Переклад (uk -> en): {TransLate(text_to_translate, 'uk', 'en')}\n")
     
     print("-LangDetect-")
-    text_to_detect = "Bonjour tout le monde"
+    text_to_detect = "Hello My friend"
     print(f"Текст: {text_to_detect}")
     print(f"Мова : {LangDetect(text_to_detect, 'all')}")
     print(f"Код мови : {LangDetect(text_to_detect, 'lang')}\n")

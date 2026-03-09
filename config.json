@@ -2,6 +2,6 @@
     "text_file": "steve_jobs.txt",
     "target_language": "en",
     "module_to_use": "gtrans4",
-    "output": "file",
+    "output": "screen",
     "sentences_limit": 4
 }
