@@ -1,0 +1,7 @@
+harkavyi/
+__pycache__/
+*.pyc
+.vscode/
+*.txt
+!requirements.txt
+!steve_jobs.txt
