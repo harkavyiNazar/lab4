@@ -7,7 +7,7 @@ def main():
     print(f"Переклад (uk -> en): {TransLate('Модуль для перевірки Docker-контейнеру', 'uk', 'en')}\n")
     
     print("-Тест LangDetect-")
-    print(f"Результат (all): {LangDetect('Bonjour tout le monde', 'all')}\n")
+    print(f"Код мови та confidence: {LangDetect('Hello my friend', 'all')}\n")
     
     print("-CodeLang-")
     print(f"Перевірка назви 'ukrainian': {CodeLang('ukrainian')}\n")
