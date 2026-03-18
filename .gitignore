@@ -5,3 +5,4 @@ __pycache__/
 *.txt
 !requirements.txt
 !steve_jobs.txt
+!harkavyi/Harkavyi/
